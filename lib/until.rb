@@ -5,8 +5,9 @@ def using_until
     puts "Wingardium leviosa."
     levitation_force += 1
     puts "Your levitation force is now at #{levitation_force}."
-    
+
   end
+  puts "yo feather is up in the air!"
 end
 using_until
 
